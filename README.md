@@ -94,13 +94,13 @@ package.json:
 
 ```json
 {
-  "semi": true, // Punto y coma al final de cada línea
-  "singleQuote": true, // Comillas simples
-  "printWidth": 80, // Longitud máxima de línea
-  "tabWidth": 2, // Tamaño de tabulación
-  "trailingComma": "es5", // Coma al final de objetos y arreglos
-  "bracketSpacing": true, // Espacios en objetos
-  "arrowParens": "always" // Paréntesis en funciones flecha
+  "semi": true,
+  "singleQuote": true,
+  "printWidth": 80,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "bracketSpacing": true,
+  "arrowParens": "always"
 }
 ```
 
